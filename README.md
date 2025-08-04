@@ -44,6 +44,4 @@ Here’s a summary of the preprocessing steps I followed:
 - `README.md`: this file.
 
 
-Thanks for checking it out! Let me know if you have any feedback.
-
- &amp; pre-processing using airlines dataset
+Thanks for checking it out!
