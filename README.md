@@ -40,7 +40,6 @@ Here’s a summary of the preprocessing steps I followed:
 ## Files in This Repository
 
 - `Task1_Data_Preprocessing_Airlines.ipynb`: My full Colab notebook with step-by-step code and explanations.
-- `cleaned_airlines_dataset.csv`: The cleaned, ready-to-use dataset (optional to upload).
 - `README.md`: this file.
 
 
